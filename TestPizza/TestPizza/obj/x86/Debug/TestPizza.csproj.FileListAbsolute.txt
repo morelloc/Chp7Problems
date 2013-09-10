@@ -1,0 +1,5 @@
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\bin\Debug\Chapter7Problems.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\bin\Debug\Chapter7Problems.pdb
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\Chapter7Problems.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\Chapter7Problems.pdb
