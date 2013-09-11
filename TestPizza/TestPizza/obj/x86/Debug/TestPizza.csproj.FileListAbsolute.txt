@@ -3,3 +3,8 @@ C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\bin\Debug\Chap
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\ResolveAssemblyReference.cache
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\Chapter7Problems.exe
 C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter7Problems\obj\x86\Debug\Chapter7Problems.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chp7Problems\TestPizza\TestPizza\bin\Debug\TestPizza.exe
+C:\Users\EAHSCS\Documents\GitHub\Chp7Problems\TestPizza\TestPizza\bin\Debug\TestPizza.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chp7Problems\TestPizza\TestPizza\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EAHSCS\Documents\GitHub\Chp7Problems\TestPizza\TestPizza\obj\x86\Debug\TestPizza.exe
+C:\Users\EAHSCS\Documents\GitHub\Chp7Problems\TestPizza\TestPizza\obj\x86\Debug\TestPizza.pdb

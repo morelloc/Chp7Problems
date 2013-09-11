@@ -3,16 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Problem1
+namespace Problem3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Pizza pepperoni = new Pizza();
-            pepperoni.Toppings = "pepperoni";
-            pepperoni.Diameter = 12;
-            pepperoni.Price = 13.99;
+            Circle circle1 = new Circle();
+            circle1.Radius = 1;
         }
     }
 }

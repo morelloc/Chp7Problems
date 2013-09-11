@@ -3,36 +3,36 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Chapter7Problems
+namespace Problem2
 {
-    class Pizza
+    class HousePlants
     {
         // Private fields
-        private toppings;
-
-
+        private string name;
+        private bool food;
+        private double price;
         // Public properties
-        public string Toppings
+        public string Name
         {
             get
             {
-                return toppings;
+                return name;
             }
             set
             {
-                toppings = value;
+                name = value;
             }
         }
 
-        public int Diameter
+        public bool Food
         {
             get
             {
-                return diameter;
+                return food;
             }
             set
             {
-                diameter = value;
+                food = value;
             }
         }
 
@@ -49,3 +49,4 @@ namespace Chapter7Problems
         }
     }
 }
+
