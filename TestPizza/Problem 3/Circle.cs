@@ -11,9 +11,24 @@ namespace Problem3
         private double radius;
         private double diameter;
         private double area;
-        // Public properties
-        readonly double Diameter;
-        readonly double Area;
+        public Circle()
+        {
+            radius = 1;
+        }
+        public double Diameter
+        {
+            get
+            {
+                return diameter;
+            }
+        }
+        public double Area
+        {
+            get
+            {
+                return area;
+            }
+        }
         public double Radius
         {
             get
