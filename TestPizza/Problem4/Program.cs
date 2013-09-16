@@ -9,6 +9,14 @@ namespace Problem5
     {
         static void Main(string[] args)
         {
+            GirlScout Nicole = new GirlScout("Nicole", 12, 0);
+
+            GirlScout Rachael = new GirlScout()
+            {
+                Rachael.name = "Rachael";
+                Rachael.number = 0;
+            }
+           
         }
     }
 }
