@@ -14,20 +14,21 @@ namespace Problem5
         private double dues;
 
         public const string motto = "to obey the Girl Scout law";
-       
-        public GirlScout()
-         {
-             name = "Name";
-             number = 0;
-             dues = 0;
-         }
 
+        public GirlScout()
+        {
+            name = "Name";
+            number = 0;
+            dues = 0;
+        }
+        
         public GirlScout(string empName, double empNumber, double empDues)
         {
             name = empName;
             number = empNumber;
             dues = empDues;
         }
+
 
         public string Name {get; set;}
         public double Number { get; set; }
