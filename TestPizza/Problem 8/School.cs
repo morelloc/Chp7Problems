@@ -3,44 +3,24 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Problem_8
+namespace SchoolsDemo
 {
     class School : IComparable
     {
-        private string name;
-        private double enrollment;
+        private int enrolled;
+        public int Enrolled { get; set; }
 
-        public School()
+        int IComparable.CompareTo(Object other)
         {
-            name = "School";
-            enrollment = 0;
-        }
-        public School()
-        {
-            name = "School";
-            enrollment = 0;
-        }
-        public School()
-        {
-            name = "School";
-            enrollment = 0;
-        }
-        public School()
-        {
-            name = "School";
-            enrollment = 0;
-        }
-        public School()
-        {
-            name = "School";
-            enrollment = 0;
-        }
+            School otherSchool = (School)other;
 
-        public string Name { get; set; }
-        public double Enrollment { get; set; }
+            if (this.Enrolled < otherSchool.Enrolled)
+                return -1;
+            else if (this.Enrolled > otherSchool.Enrolled)
+                return 1;
 
-
-
+            return 0;
+        }
 
     }
 }
